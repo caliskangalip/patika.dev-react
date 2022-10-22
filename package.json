@@ -1,0 +1,25 @@
+{
+  "name": "patika.dev-react",
+  "version": "1.0.0",
+  "description": "Mehmet SEVEN - React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliskangalip/patika.dev-react.git"
+  },
+  "keywords": [
+    "react",
+    "patika.dev",
+    "mehmet",
+    "seven"
+  ],
+  "author": "Galip ÇALIŞKAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caliskangalip/patika.dev-react/issues"
+  },
+  "homepage": "https://github.com/caliskangalip/patika.dev-react#readme"
+}
